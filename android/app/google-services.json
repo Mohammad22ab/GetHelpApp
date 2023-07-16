@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "156110250369",
+    "project_id": "gethelpapp-85a3f",
+    "storage_bucket": "gethelpapp-85a3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156110250369:android:b8864d7bea8c5fa44bc880",
+        "android_client_info": {
+          "package_name": "com.example.gethelp11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156110250369-1blgkpuqs73geq5utuvofgqq6hnn2beh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6cN16fuE1egSoTvogsCJ1lhRhxVNrXxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156110250369-1blgkpuqs73geq5utuvofgqq6hnn2beh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156110250369:android:76d887f5bd6700d84bc880",
+        "android_client_info": {
+          "package_name": "com.example.helpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156110250369-1blgkpuqs73geq5utuvofgqq6hnn2beh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6cN16fuE1egSoTvogsCJ1lhRhxVNrXxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156110250369-1blgkpuqs73geq5utuvofgqq6hnn2beh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
